@@ -73,9 +73,9 @@ html_temp = """
    <div class="" style="background-color:blue;" >
    <div class="clearfix">           
    <div class="col-md-12">
-   <center><p style="font-size:40px;color:white;margin-top:10px;">Poornima Institute of Engineering & Technology</p></center> 
-   <center><p style="font-size:30px;color:white;margin-top:10px;">Department of Computer Engineering</p></center> 
-   <center><p style="font-size:25px;color:white;margin-top:10px;"Summer Internship 2022</p></center> 
+   <center><p style="font-size:40px;color:white;margin-top:10px;">Poornima Group of Institution</p></center> 
+   <center><p style="font-size:30px;color:white;margin-top:10px;">Department of AI & DS</p></center> 
+   <center><p style="font-size:25px;color:white;margin-top:10px;"Machine Learning Project</p></center> 
    </div>
    </div>
    </div>
@@ -92,12 +92,12 @@ if st.button("Review Analysis"):
       
 if st.button("About"):
   st.subheader("Developed by Rohan Kandpal")
-  st.subheader("Student, Department of Computer Engineering")
+  st.subheader("Student, Department of AI & DS")
 html_temp = """
    <div class="" style="background-color:orange;" >
    <div class="clearfix">           
    <div class="col-md-12">
-   <center><p style="font-size:20px;color:white;margin-top:10px;">Summer Internship 2022 Project Deployment</p></center> 
+   <center><p style="font-size:20px;color:white;margin-top:10px;">Non Syllabus Project</p></center> 
    </div>
    </div>
    </div>
